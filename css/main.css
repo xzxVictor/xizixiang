@@ -52,12 +52,14 @@ body {
 }
 
 a {
-	color: black;
+	color: #102e68;
 	text-decoration-line: none;
+	font-weight:bold;
 }
 
 a:hover {
 	text-decoration-line: underline;
+	
 }
 ul{
 	padding: 0;
@@ -149,7 +151,7 @@ li {
 }
 
 .link:hover {
-	background-color: #232D4B;
+	background-color: #102e68;
 	color: white;
 	text-decoration-line: none;
 }
