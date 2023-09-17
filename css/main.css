@@ -231,6 +231,10 @@ a:hover {
 		grid-template-columns: 100%;
 		gap: 0px;
 	}
+	.content-list2 {
+		grid-template-columns: 100%;
+		gap: 0px;
+	}
 }
 
 .entry {
